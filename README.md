@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Risetech4drew
+- 👋 Hi, I’m @Andrew_kanyinji
 - 👀 I’m interested in front-end back-end web development 
 - 🌱 I’m currently learning html+css and JavaScript 
 - 💞️ I’m looking to collaborate on front-end web pages

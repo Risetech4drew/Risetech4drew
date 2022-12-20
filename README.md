@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew_kanyinji
-- 👀 I’m interested in front-end back-end web development 
+- 👀 I’m interested in front-end web development at the moment
 - 🌱 I’m currently learning html+css and JavaScript 
 - 💞️ I’m looking to collaborate on front-end web pages
 - 📫 How to reach me, kanyinjiandy2@gmail.com, 
